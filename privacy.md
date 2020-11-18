@@ -78,7 +78,7 @@ We use personal information collected via our App for a variety of business purp
 
 We use the information we collect or receive:
 To facilitate account creation and logon process. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. See the section below headed "HOW DO WE HANDLE YOUR SOCIAL LOGINS" for further information.
-To post testimonials. We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at privacy@nearfi.com and be sure to include your name, testimonial location, and contact information.
+To post testimonials. We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at privacy@nearfi.io and be sure to include your name, testimonial location, and contact information.
 Request feedback. We may use your information to request feedback and to contact you about your use of our App.
 To enable user-to-user communications. We may use your information in order to enable user-to-user communications with each user's consent.
 To manage user accounts. We may use your information for the purposes of managing our account and keeping it in working order.
@@ -145,7 +145,7 @@ We have implemented appropriate technical and organizational security measures d
 
 In Short:  We do not knowingly collect data from or market to children under 18 years of age.
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the App, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the App. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at privacy@nearfi.com.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the App, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the App. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at privacy@nearfi.io
 
 10. WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -188,7 +188,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?     
 
-If you have questions or comments about this notice, you may email us at privacy@nearfi.com or by post to:
+If you have questions or comments about this notice, you may email us at privacy@nearfi.io or by post to:
 
 Commnet Times Private Limited
 2-11-450, Vidyaranyapuri
