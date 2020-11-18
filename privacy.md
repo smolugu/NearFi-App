@@ -155,7 +155,7 @@ If you are a resident in the European Economic Area and you believe we are unlaw
 
 If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
 
-If you have questions or comments about your privacy rights, you may email us at shyamprasad.molugu@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at privacy@nearfi.io
 
 Account Information
 
